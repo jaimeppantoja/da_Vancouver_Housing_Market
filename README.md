@@ -3,7 +3,7 @@
 ## Introduction
 This Jupyter Notebook analyzes a dataset of 800 observations sourced from Zillow, filtered from an initial pool of over 4,000 property listings. The study employs a diverse range of data analytic techniques, powered by Python, to generate graphs and visualizations that reveal patterns and insights not immediately evident in the raw data.
 
-The process begins with rigorous data cleaning and preparation, including the resolution of inconsistent formats and handling of missing values, ensuring that the dataset is both accurate and reliable. These foundational steps set the stage for meaningful analysis and interpretation. The final report, accessible via [insert link], presents the findings in an engaging and visually intuitive format.
+The process begins with rigorous data cleaning and preparation, including the resolution of inconsistent formats and handling of missing values, ensuring that the dataset is both accurate and reliable. These foundational steps set the stage for meaningful analysis and interpretation. The final report, accessible via [https://jaimeppantoja.github.io/project_web_real_estate/index.html], presents the findings in an engaging and visually intuitive format.
 
 Key visualizations generated in this study include:
 - Heatmaps
